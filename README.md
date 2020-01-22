@@ -82,14 +82,14 @@ I will use a shell script to clone all class members' repositories at the time t
 |  Date   | Day |           Topic             | Readings | Homework |
 |---------|---|-------------------------------------|---------|-----|
 | Jan.  6 | M | Introduction                     | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Slides/StructEst_Intro.pdf) | [PS1](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS1/PS1.pdf) |
-| Jan.  8 | W | Structural vs. reduced form disc.   | K2010   |  |
-|         |   |                                     | R2010   |     |
-| Jan. 13 | M | Maximum likelihood estimation (MLE)  | Notebk | PS2 |
+| Jan.  8 | W | Git and GitHub intro                | [tutorial](https://github.com/rickecon/StructEst_W20/blob/master/Tutorials/git_tutorial.pdf) |  |
+|         |   | Structural vs. reduced form disc.   | K2010, R2010  |  |
+| Jan. 13 | M | Maximum likelihood estimation (MLE)  | [Notebk](https://github.com/rickecon/StructEst_W20/blob/master/Notebooks/MLE/MLest.ipynb) | [PS2](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS2/PS2.pdf) |
 | Jan. 15 | W | Maximum likelihood estimation (MLE) |  |     |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |    |     |
 | Jan. 22 | W | Compare ML and GMM                  | FMS1995 |  |
-| Jan. 27 | M | Generalized method of moments (GMM) | Notebk | PS3 |
-| Jan. 29 | W | No Class: Winter Weather Cancellation |      |     |
+| Jan. 27 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/rickecon/StructEst_W20/blob/master/Notebooks/GMM/GMMest.ipynb) | PS3 |
+| Jan. 29 | W | Generalized method of moments (GMM) |      |     |
 | Feb.  3 | M | Generalized method of moments (GMM) | H1982   |     |
 | Feb.  5 | W | Simulated Method of Moments (SMM)   | Notebk | PS4 |
 | Feb. 10 | M | Simulated Method of Moments (SMM)   | DM2004  |  |
